@@ -1,8 +1,0 @@
-vermelho
-amarelo
-brancoazul
-preto
-rosamorango
-laranja
-banana
-maçã
